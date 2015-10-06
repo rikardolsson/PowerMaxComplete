@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PowerMaxComplete</string>
+
+    <string name="welcome_txt">PowerMax Login</string>
+    <string name="email">User ID</string>
+    <string name="login">Register Me</string>
+    <string name="defaultmsg">Message from PowerMax backend.</string>
+    <string name="msg_title">Message</string>
+    <string name="user_title">Hello User</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+</resources>
